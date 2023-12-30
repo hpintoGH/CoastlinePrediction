@@ -9,7 +9,7 @@ Global temperature rise leads to accelerated glacier melting, causing sea levels
 
 For the development of the Coastline Prediction application, inspiration was drawn from the work done by Wenyu Hu and Stacia Kolodziejski of Boston University [1]. However, both the source code and the user interface were created from scratch.
 
-Several features and capabilities were added to the Coastline Prediction software, including:
+Several features and capabilities were added to the Coastline Prediction software created for the current project, including:
 
 - Inclusion of U.S. Geological Survey (USGS) digital elevation models with a resolution of 1/3 arc-second for the U.S. territory [2].
 - The ability to visualize any location on the planet thanks to the incorporation of elevation data from the NASA Shuttle Radar Topography Mission Global 1 arc-second V003 [3], provided that the area of interest is within the coverage of the database.
