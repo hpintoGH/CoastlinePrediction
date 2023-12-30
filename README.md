@@ -24,9 +24,11 @@ Due to the large amount of data handled during the application's execution, it i
 
 The necessary files to run the application are in the repository and should be stored in the same manner with the same names. The application file “CoastlinePrediction.mlapp”, along with the other files and subfolders, must be in the same folder.
 
-
 # Demo
 Add a video or animated gif/picture to showcase the code in operation.
 
 # Reference
-Add reference papers, data, or supporting material that has been used, if any.
+[1] W. Hu and S. Kolodziejski, "Coastline Prediction using Existing Climate Change Models," 2023. [Online]. Available: https://github.com/skolodz/SeaLevelPredictor?tab=readme-ov-file. \
+[2] U.S. Geological Survey, "1/3rd arc-second Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection: U.S. Geological Survey.," 2023. [Online]. Available: https://www.sciencebase.gov/catalog/item/4f70aa9fe4b058caae3f8de5. \
+[3] NASA JPL, "NASA Shuttle Radar Topography Mission Global 1 arc second," NASA EOSDIS Land Processes DAAC, 2013. [Online]. Available: https://doi.org/10.5067/MEaSUREs/SRTM/SRTMGL1.003. \
+[4] S. Muis, I. Apecechea, J. A. Álvarez, M. Verlaan, K. Yan, J. Dullaart, J. Aerts, T. Duong, R. Ranasinghe, D. le Bars, R. Haarsma and M. Roberts, "Global sea level change time series from 1950 to 2050 derived from reanalysis and high resolution CMIP6 climate projections," Copernicus Climate Change Service (C3S) Climate Data Store (CDS), 2022. [Online]. Available: DOI: 10.24381/cds.a6d42d60.
