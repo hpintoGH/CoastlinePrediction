@@ -24,6 +24,8 @@ Due to the large amount of data handled during the application's execution, it i
 
 The necessary files to run the application are in the repository and should be stored in the same manner with the same names. The application file “CoastlinePrediction.mlapp”, along with the other files and subfolders, must be in the same folder.
 
+More information about the app is in the Reference Manual.
+
 # Demo
 [Youtube video](https://youtu.be/-WUzInq5p_g)
 
