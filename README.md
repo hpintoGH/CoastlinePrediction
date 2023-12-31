@@ -25,7 +25,7 @@ Due to the large amount of data handled during the application's execution, it i
 The necessary files to run the application are in the repository and should be stored in the same manner with the same names. The application file “CoastlinePrediction.mlapp”, along with the other files and subfolders, must be in the same folder.
 
 # Demo
-Add a video or animated gif/picture to showcase the code in operation.
+[Youtube video](https://youtu.be/-WUzInq5p_g)
 
 # Reference
 [1] W. Hu and S. Kolodziejski, "Coastline Prediction using Existing Climate Change Models," 2023. [Online]. Available: https://github.com/skolodz/SeaLevelPredictor?tab=readme-ov-file. \
